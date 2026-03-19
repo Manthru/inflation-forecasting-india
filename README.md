@@ -47,4 +47,4 @@ This project focuses on forecasting inflation trends and detecting sudden price 
 
 ## 👨‍💻 Author
 
-Your Name
+R. Manthru Naik
