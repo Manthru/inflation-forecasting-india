@@ -158,4 +158,4 @@ streamlit run app/streamlit_app.py
 
 ## 👨‍💻 Author
 
-Ramavath Manthru Naik
+Manthru
